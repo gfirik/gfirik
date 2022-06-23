@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
-<h3 align="center">Front End | React | JavaScript Developer</h3>
+<h3 align="center">Full Stack | React | Node.js Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript, Node.js, Golang, Flutter**
 
