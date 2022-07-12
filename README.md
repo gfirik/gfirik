@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
 <h3 align="center">Full Stack | React | Node.js Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Node.js, Golang, Flutter**
-
 - 👨‍💻 All of my projects are available at [gfirik.vercel.app/projects](gfirik.vercel.app/projects)
 
 - 📫 How to reach me **firdavs.gafurjonov@gmail.com**
