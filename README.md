@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 My selected projects are available at [gfirik.vercel.app/projects](https://gfirik.vercel.app/projects)
+- 👨‍💻 My selected projects are available at [firdavs-tech.vercel.app](https://firdavs-tech.vercel.app)
 
 - 📫 How to reach me **firdavs.gafurjonov@gmail.com**
 
