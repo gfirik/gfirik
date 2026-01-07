@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
-<h3 align="center">Full Stack | React | Node.js Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 My selected projects are available at [gfirik.vercel.app/projects](https://gfirik.vercel.app/projects)
 
