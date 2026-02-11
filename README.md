@@ -1,4 +1,4 @@
-# Hi 👋, I'm Firdavs Gafurjonov
+# Hi 👋, I'm Firdavs
 
 **Full-Stack Software Engineer | SaaS Founder | AI Integration Specialist**
 
