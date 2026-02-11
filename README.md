@@ -11,13 +11,12 @@
 🔹 **Automation Systems** - Building smart workflows with n8n and Telegram bots  
 
 ## 🛠️ Tech Stack
-```
-Frontend:  Next.js • React • TypeScript • Tailwind CSS
-Backend:   Node.js • Express • PostgreSQL • MongoDB
-AI/ML:     Gemini API • OpenAI API • Computer Vision • Prompt Engineering
-DevOps:    Docker • VPS • CI/CD • GitHub Actions
-Tools:     n8n • Telegram Bot API • Discord API • Webhooks
-```
+
+**Frontend:** Next.js • React • TypeScript • Tailwind CSS  
+**Backend:** Node.js • Express • PostgreSQL • MongoDB • Supabase  
+**AI/ML:** Gemini API • OpenAI API • Computer Vision • Prompt Engineering  
+**DevOps:** Docker • VPS • CI/CD • GitHub Actions  
+**Tools:** n8n • Telegram Bot API • Discord API • Notion API • Airtable API  
 
 ## 🎯 Core Competencies
 
@@ -26,12 +25,8 @@ Tools:     n8n • Telegram Bot API • Discord API • Webhooks
 ✅ **AI Integration** - Practical implementation of LLM APIs and computer vision  
 ✅ **Product Thinking** - Build what users need, not just what looks cool  
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: firdavs.gafurjonov@gmail.com  
-🌐 Portfolio: [firdavs-tech.vercel.app](https://firdavs-tech.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/firdavs-gafurjonov](https://linkedin.com/in/firdavs-gafurjonov)  
-
----
-
-💡 **Looking for collaboration on interesting projects or full-time opportunities in product engineering.**
+📧 **Email:** firdavs.gafurjonov@gmail.com  
+🌐 **Portfolio:** [firdavs-tech.vercel.app](https://firdavs-tech.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/firdavs-gafurjonov](https://linkedin.com/in/firdavs-gafurjonov)  
