@@ -14,7 +14,7 @@
 
 **Frontend:** Next.js • React • TypeScript • Tailwind CSS  
 **Backend:** Node.js • Express • PostgreSQL • MongoDB • Supabase  
-**AI/ML:** Gemini API • OpenAI API • Computer Vision • Prompt Engineering  
+**AI/ML:** LLM APIs • Computer Vision • Prompt Engineering  
 **DevOps:** Docker • VPS • CI/CD • GitHub Actions  
 **Tools:** n8n • Telegram Bot API • Discord API • Notion API • Airtable API  
 
