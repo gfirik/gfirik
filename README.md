@@ -1,6 +1,6 @@
 # Hi 👋, I'm Firdavs
 
-**Full-Stack Software Engineer | SaaS Founder | AI Integration & Auomation Specialist**
+**Full-Stack Software Engineer | SaaS Founder | AI Integration & Automation Specialist**
 
 🚀 I build production-ready web applications and AI-integrated solutions that people actually use and pay for.
 
