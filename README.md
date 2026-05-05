@@ -1,22 +1,8 @@
 # Hi 👋, I'm Firdavs
 
-**Full-Stack Software Engineer | SaaS Founder | AI Integration & Automation Specialist**
+**Full-Stack Software Engineer**
 
-🚀 I build production-ready web applications and AI-integrated solutions that people actually use and pay for.
-
-## 💼 What I'm Building
-
-🔹 **SoftCRM** - Multi-tenant CRM platform serving 30+ teams managing 290+ projects  
-🔹 **AI-Powered Applications** - Integrating Computer Vision and LLM APIs into production systems  
-🔹 **Automation Systems** - Building smart workflows with n8n and Telegram bots  
-
-## 🛠️ Tech Stack
-
-**Frontend:** Next.js • React • TypeScript • Tailwind CSS  
-**Backend:** Node.js • Express • PostgreSQL • MongoDB • Supabase  
-**AI/ML:** LLM APIs • Computer Vision • Prompt Engineering  
-**DevOps:** Docker • VPS • CI/CD • GitHub Actions  
-**Tools:** n8n • Telegram Bot API • Discord API • Notion API • Airtable API  
+🚀 I build production-ready web applications and AI-integrated solutions.
 
 ## 🎯 Core Competencies
 
