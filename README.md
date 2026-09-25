@@ -1,18 +1,5 @@
-# Hi 👋, I'm Firdavs
+### Firdavs Gafurjonov
 
-**Full-Stack Software Engineer**
+**Full Stack & AI Engineer.** AI agents, RAG, automations, custom software, web apps and APIs — built and shipped to production.
 
-🚀 I build production-ready web applications and AI-integrated solutions.
-
-## 🎯 Core Competencies
-
-✅ **Full-Stack Development** - Ship complete features from database to UI  
-✅ **SaaS Architecture** - Multi-tenant systems with RBAC and real-time features  
-✅ **AI Integration** - Practical implementation of LLM APIs and computer vision  
-✅ **Product Thinking** - Build what users need, not just what looks cool  
-
-## 📫 Connect With Me
-
-📧 **Email:** firdavs.gafurjonov@gmail.com  
-🌐 **Portfolio:** [firdavs-tech.vercel.app](https://firdavs-tech.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/firdavs-gafurjonov](https://linkedin.com/in/firdavs-gafurjonov)  
+→ [fhsystems.dev](https://fhsystems.dev) · [LinkedIn](https://linkedin.com/in/firdavs-gafurjonov)
